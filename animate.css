@@ -26,10 +26,12 @@ section:nth-of-type(2n){background-color:#eee;}
 		width: 100%;
 		background-color: blue;
 	}
+}
+
 	/* **************************************** */
 	/* Progress Circle Animation using CSS only */
 	/*         Add jsFiddle CSS code here       */
-	.wrapper {
+.wrapper {
 		width: 100px; /* Set the size of the progress bar */
 		height: 100px;
 		position: absolute; /* Enable clipping */
